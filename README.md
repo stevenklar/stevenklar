@@ -1,6 +1,6 @@
 ### About me
 
-- 🔭 I’m currently working on improving our worlds climate.
+- 🔭 I’m currently working on improving our [worlds climate](https://www.enersis.ch/?lang=en).
 - 👯 I’m looking to collaborate on useful Kubernetes controllers/automation.
-- 💬 Ask me about anything
-- ⚡ Fun fact: I work again climate change but drive a fast car.
+- ⚡ Fun fact: I work again climate change but drive a [fast car](https://www.instagram.com/p/CCf45alpvgd/).
+- 💬 Ask me about kubernetes and golang
